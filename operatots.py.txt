@@ -1,0 +1,33 @@
+
+x=13
+y=5
+print(x/y)
+print(x//y)
+print(x%y)
+print(x+y)
+print(x-y)
+print(x*y)
+print(x**y)
+print("first"+"last")
+print(x>y)
+print(x<y)
+print(x>=y)
+print(x<=y)
+print(x==y)
+print(x!=y)
+x="python"
+y="operator"
+print("python">="operators")
+x=5
+y=10
+print(x>y and x<y)
+print(y>x or y<x)
+print(not(y>x or y<x))
+print('Hello, world!')
+print(x is y)
+print(x is not y)
+x = ["apple", "banana"]
+
+print("banana" in x)
+print("mango" not in x)
+
